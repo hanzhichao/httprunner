@@ -4,6 +4,6 @@
 
 ## 安装方法
 ```
-pip install httprunner git+https://github.com/hanzhichao/httprunner
+pip install git+https://github.com/hanzhichao/httprunner
 ```
 
